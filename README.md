@@ -122,8 +122,9 @@ Interact with my Dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiNzc5OTM
 
 ### Business Performance Dashboard
 
-![Business Performance Dashboard](./Business%20Performance%20Dashboard%20%26%20Operational%20Insights/business%20performance%20Dashboard.png)
+![Business Performance Dashboard](./Business%20Performance%20Dashboard%20%26%20Operational%20Insights/Business%20Performance%20Dashboard.png)
 
 ### Operational Insights
 
-![Operational Insights](./Business%20Performance%20Dashboard%20%26%20Operational%20Insights/operational%20insights.png)
+![Operational Insights](./Business%20Performance%20Dashboard%20%26%20Operational%20Insights/Operational%20Insights.png)
+

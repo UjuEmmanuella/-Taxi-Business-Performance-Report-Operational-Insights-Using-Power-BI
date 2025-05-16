@@ -11,7 +11,7 @@ This project used Power BI to evaluate and visualize key operational metrics for
 
 ---
 
-## 🧩 Problem Statement
+## Problem Statement
 
 The taxi company needed clarity on several performance areas:
 
@@ -33,7 +33,7 @@ These questions guided the dashboard design and analysis, helping the business b
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 
 ###  Data Cleaning
 
@@ -88,7 +88,7 @@ Designed an interactive Power BI dashboard to answer the business questions at a
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 1. **Peak growth occurred from May to July, but there was no clear strategy for off-peak months.**
 2. **Top vendors consistently outperformed others, signaling a need for standardizing best practices.**
@@ -118,3 +118,12 @@ This project highlights the power of data storytelling and simple visuals to dri
 
 Interact with my Dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiNzc5OTM1MjQtNDg4Ni00OGU0LTlmZWItMDhjMzM3NTRjOTU0IiwidCI6IjE0ODkzNGNiLWQyMDgtNGU1Ny1hNGNkLWE2YTY2YWIyMDgwMCJ9&embedImagePlaceholder=true&pageName=8fdf51b705422d29dea9)
 
+---
+
+### Business Performance Dashboard
+
+![Business Performance Dashboard](./Business%20Performance%20Dashboard%20%26%20Operational%20Insights/business%20performance%20Dashboard.png)
+
+### Operational Insights
+
+![Operational Insights](./Business%20Performance%20Dashboard%20%26%20Operational%20Insights/operational%20insights.png)
